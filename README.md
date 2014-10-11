@@ -5,9 +5,9 @@ Learn about Head First Java
 ##Learn about Head First Java
 >##这是个标题
 >
->1. 这是第一行列表项
->2. 这是第二行列表项
->> 这是嵌入内容
+> 1. 这是第一行列表项
+> 2. 这是第二行列表项
+> > 这是嵌入内容
 > return shell_exec("echo $input | $markdown_script");
 
 <table>
