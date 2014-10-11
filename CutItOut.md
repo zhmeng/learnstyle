@@ -1,3 +1,4 @@
+###Bend Your brain into submission
 >1.  Slow down.The more you understand , the less you have to memorize<br/>
 >2. Do the exercises. Write your own notes. <br/>
 >3. Read the "There are no Dumb Questions" <br/>
